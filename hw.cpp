@@ -8,5 +8,6 @@ int main()
 	cout<<"tried doin branching"<<endl;
 	cout<<"trying to edit in github"<<endl;
 	cout<<"pull operation checking"<<endl;
+	cout<<"checking for push"<<endl;
 	return 0;
 }
